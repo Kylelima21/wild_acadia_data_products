@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+data/ebd_US-ME-009_relAug-2023.txt
+data/sdm_ebd_2023.csv
+
+
